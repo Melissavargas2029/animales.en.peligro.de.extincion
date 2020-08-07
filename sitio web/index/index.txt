@@ -1,0 +1,69 @@
+<HTML>
+
+</HEAD>
+
+<BODY>
+
+<br clear="right">
+
+<img src="Extincion de animales.png" align="left"width="150" height="150" />
+
+<br clear="right"> 
+
+<CENTER><H1>ANIMALES EN PELIGRO DE EXTINCIÓN</H1></CENTER> 
+
+<br clear="right"> 
+
+<br clear="right"> 
+
+<br clear="right"> 
+
+<br clear="right">
+ 
+<br clear="right"> 
+
+<br clear="right">
+
+<br clear="right">
+
+<img src="huellita.png" align="left"hspace="100"width="250" height="60" />
+/* menu desplegable */
+
+#menu ul ul {
+ display:none;
+ position:absolute;
+ top:100%;
+ left:0;
+ background:#eee;
+ padding:0;
+}
+
+/* items del menu desplegable */
+
+#menu ul ul li {
+ float:none;
+ width:150px
+}
+
+/* enlaces de los items del menu desplegable */
+
+#menu ul ul a {
+ line-height:120%;
+ padding:10px 15px;
+}
+
+/* items del menu desplegable al pasar el ratón */
+
+#menu ul li:hover > ul {
+ display:block;
+}
+
+<img src="organizacion.png" align="left"hspace="100"width="250" height="60" />
+
+<img src="informacion.png" align="center"hspace=100"width="250" height="60" />
+ 
+
+
+
+
+
